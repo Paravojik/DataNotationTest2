@@ -155,3 +155,20 @@ form button{
  padding: 5px ;
  margin: 0 1cm;
 }
+
+ol {
+    list-style-type: upper-alpha;
+    font-weight: bold;
+  }
+
+  .ol2 {
+
+    font-weight: bold;
+  }
+  
+  .box {
+    border: 1px solid black;
+    padding: 30px;
+    width: fit-content;
+    margin: 0 auto;
+  }
