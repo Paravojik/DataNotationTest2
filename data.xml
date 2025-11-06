@@ -1,0 +1,20 @@
+<softwareList>
+    <software id = "1">
+        <name>Microsoft Word</name>
+        <releaseDate>1983</releaseDate>
+        <use>Creating text documents</use>
+        <company>Microsoft</company>
+    </software>
+    <software id = "2">
+        <name>Microsoft Powerpoint</name>
+        <releaseDate>1987</releaseDate>
+        <use>Creating presentations</use>
+        <company>Microsoft</company>
+    </software>
+    <software id = "3">
+        <name>MicrosoftPaint</name>
+        <releaseDate>1985</releaseDate>
+        <use>Creating pictures</use>
+        <company>Microsoft</company>
+    </software>
+</softwareList>

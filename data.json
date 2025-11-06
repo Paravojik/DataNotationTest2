@@ -1,0 +1,26 @@
+[
+    {
+        "name": "JS",
+        "yearOfPublish": 1993,
+        "Use": "Core of 90% of websites",
+        "isProgrammingLanguage" : true
+    },
+    {
+        "name": "HTML",
+        "yearOfPublish": 1993,
+        "Use": "Content and structure of web content",
+        "isProgrammingLanguage" : false
+    },
+    {
+        "name": "Python",
+        "yearOfPublish": "2008",
+        "Use": "All kinds of programming",
+        "isProgrammingLanguage" : true
+    },
+    {
+        "name": "CSS",
+        "yearOfPublish": 1994,
+        "Use": "Styling a document",
+        "isProgrammingLanguage" : false
+    }
+]
