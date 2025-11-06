@@ -4,6 +4,20 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+.center {
+    text-align: center;
+}
+
+.picture {
+    width: 200px;
+    height: 200px;
+    margin: 1cm;
+    border: 2px solid black;
+}
+
+.image-container {
+    text-align: center;
+}
 .main{
     width: 100%;
     min-height: 100vh;
@@ -155,6 +169,7 @@ form button{
  padding: 5px ;
  margin: 0 1cm;
 }
+
 
 ol {
     list-style-type: upper-alpha;
