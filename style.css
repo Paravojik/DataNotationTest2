@@ -73,3 +73,46 @@ margin: 10px;
 .links__containe a:hover{
     background-color: blue;
 }
+.form{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.form h1{
+    margin-bottom: 1cm;
+}
+form{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 0 0 5px #3e3e3e;
+    border-radius: 5px;
+    text-align: left;
+}
+form .checkbox__group{
+    display: flex;
+    flex-direction: column;
+}
+form input{
+    background-color: aqua;
+    outline: none;
+    font-size: 16px;
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+form label{
+    margin: 10px 0
+}
+form button{
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+ padding: 5px ;
+ margin: 0 1cm;
+}
