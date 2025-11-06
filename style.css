@@ -73,6 +73,45 @@ margin: 10px;
 .links__containe a:hover{
     background-color: blue;
 }
+
+table {
+    border-collapse: collapse;
+    padding: 100px;
+    border-width: 1px;
+    border-color: black;
+    width: 100%;
+}
+
+
+.center {
+    text-align: center;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse; 
+}
+
+
+th {
+    background-color: black; 
+    color: white; 
+    padding: 10px;
+    text-align: left;
+}
+
+
+td {
+    border: 1px solid #ddd; 
+    padding: 8px;
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
 .form{
     width: 100%;
     min-height: 100vh;
